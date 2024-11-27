@@ -1,4 +1,4 @@
-# image-super-resolution# Image Super-Resolution Using Autoencoder
+# Image Super-Resolution Using Autoencoder
 
 This project demonstrates how to use a convolutional autoencoder to enhance image resolution. The model is trained to map low-resolution images to their high-resolution counterparts, leveraging deep learning techniques for efficient super-resolution.
 
